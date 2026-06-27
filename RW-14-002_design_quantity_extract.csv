@@ -1,0 +1,18 @@
+source_record_id,project_id,wall_segment,station_start,station_end,pay_item,item_description,length_m,height_m,thickness_m,width_m,depth_m,bar_mark,bar_length_m,unit_mass_kg_per_m,design_elevation_m,design_quantity,unit,note
+DQ-001,RW-14,W-A,0+000,0+018,RW-CONC,segment A concrete volume,18.0,1.8,0.3,,,,,,,9.72,m3,length x height x thickness
+DQ-002,RW-14,W-B,0+018,0+034,RW-CONC,segment B concrete volume,16.0,2.1,0.35,,,,,,,11.76,m3,length x height x thickness
+DQ-003,RW-14,W-C,0+034,0+048.5,RW-CONC,segment C concrete volume,14.5,2.4,0.4,,,,,,,13.92,m3,length x height x thickness
+DQ-004,RW-14,W-A,0+000,0+018,RW-REBAR,segment A main reinforcement weight,,,,,,#16,350.0,1.58,,553.0,kg,bar length x unit mass
+DQ-005,RW-14,W-B,0+018,0+034,RW-REBAR,segment B main reinforcement weight,,,,,,#16,420.0,1.58,,663.6,kg,bar length x unit mass
+DQ-006,RW-14,W-C,0+034,0+048.5,RW-REBAR,segment C main reinforcement weight,,,,,,#20,250.0,2.47,,617.5,kg,bar length x unit mass
+DQ-007,RW-14,D-01,0+000,0+052,DRAIN-AGG,collector drain aggregate volume,52.0,,,0.45,0.55,,,,,12.87,m3,length x width x depth
+DQ-008,RW-14,D-02,0+052,0+076,DRAIN-AGG,outlet drain aggregate volume,24.0,,,0.5,0.6,,,,,7.2,m3,length x width x depth
+DQ-009,RW-14,GT-01,0+000,0+052,GEOTEXTILE,collector drain geotextile area,52.0,,,2.2,,,,,,114.4,m2,length x roll width
+DQ-010,RW-14,GT-02,0+052,0+076,GEOTEXTILE,outlet drain geotextile area,24.0,,,2.4,,,,,,57.6,m2,length x roll width
+DQ-011,RW-14,W-A,0+000,0+018,WALL-EXC,segment A wall excavation,18.0,,,1.5,1.2,,,,,32.4,m3,length x width x average depth
+DQ-012,RW-14,W-B,0+018,0+034,WALL-EXC,segment B wall excavation,16.0,,,1.65,1.35,,,,,35.64,m3,length x width x average depth
+DQ-013,RW-14,W-C,0+034,0+048.5,WALL-EXC,segment C wall excavation,14.5,,,1.8,1.5,,,,,39.15,m3,length x width x average depth
+DQ-014,RW-14,W-A,0+009,0+009,ELEV-TOP,top of wall design elevation,,,,,,,,,101.2,,m,point W-A-TOP
+DQ-015,RW-14,W-B,0+026,0+026,ELEV-TOP,top of wall design elevation,,,,,,,,,101.25,,m,point W-B-TOP
+DQ-016,RW-14,W-C,0+041,0+041,ELEV-TOP,top of wall design elevation,,,,,,,,,101.33,,m,point W-C-TOP
+DQ-017,RW-14,D-OUT,0+076,0+076,ELEV-INVERT,collector drain outlet invert design elevation,,,,,,,,,99.43,,m,point DRAIN-OUT

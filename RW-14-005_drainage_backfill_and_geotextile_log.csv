@@ -1,0 +1,9 @@
+source_record_id,project_id,station_start,station_end,feature_id,pay_item,item_description,length_m,width_m,depth_or_thickness_m,roll_width_m,recorded_quantity,unit,note
+DG-001,RW-14,0+000,0+052,D-01,DRAIN-AGG,free-draining aggregate behind main wall,52.4,0.45,0.55,,12.97,m3,field chainage longer than design
+DG-002,RW-14,0+052,0+076,D-02,DRAIN-AGG,outlet drain aggregate,24.0,0.5,0.6,,,m3,recorded quantity left blank in field book
+GT-001,RW-14,0+000,0+052,GT-01,GEOTEXTILE,geotextile behind main wall,52.4,,,2.20,115.28,m2,roll width copied from ticket
+GT-002,RW-14,0+052,0+076,GT-02,GEOTEXTILE,geotextile at outlet drain,24.0,,,,,m2,roll width missing from site note
+EX-001,RW-14,0+000,0+018,W-A,WALL-EXC,segment A wall excavation,18.4,1.5,1.25,,34.5,m3,average depth from field levels
+EX-002,RW-14,0+018,0+034,W-B,WALL-EXC,segment B wall excavation,16.0,1.65,1.35,,35.64,m3,matches design
+EX-003,RW-14,0+034,0+048.5,W-C,WALL-EXC,segment C wall excavation,14.2,1.8,1.55,,39.62,m3,field depth after overbreak trimming
+DG-001-DUP,RW-14,0+000,0+052,D-01,DRAIN-AGG,free-draining aggregate behind main wall,52.4,0.45,0.55,,12.97,m3,duplicate export of DG-001

@@ -1,0 +1,11 @@
+source_record_id,project_id,wall_segment,station_start,station_end,check_type,item_description,length_m,height_m,thickness_m,width_m,depth_m,bar_length_m,unit_mass_kg_per_m,source_value,unit,note
+FC-001,RW-14,W-A,0+000,0+018,concrete dimension,segment A field concrete dimension,18.4,1.8,0.3,,,,,9.936,m3,length x height x thickness
+FC-002,RW-14,W-B,0+018,0+034,concrete dimension,segment B field concrete dimension,16.0,2.1,0.35,,,,,11.76,m3,length x height x thickness
+FC-003,RW-14,W-C,0+034,0+048.5,concrete dimension,segment C field concrete dimension,14.2,2.45,0.4,,,,,13.916,m3,length x height x thickness
+FC-004,RW-14,D-01,0+000,0+052,drain aggregate,main drain aggregate dimension,52.4,,,0.45,0.55,,,12.969,m3,length x width x depth
+FC-005,RW-14,D-02,0+052,0+076,drain aggregate,outlet drain aggregate dimension,24.0,,,0.50,,,,,m3,depth field blank on checklist
+FC-006,RW-14,W-A,0+000,0+018,rebar weight,segment A rebar checklist,,,,,,362.0,1.58,571.96,kg,bar length x unit mass
+FC-007,RW-14,W-B,0+018,0+034,rebar weight,segment B rebar checklist,,,,,,420.0,1.58,663.6,kg,bar length x unit mass
+FC-008,RW-14,W-C,0+034,0+048.5,rebar weight,segment C rebar checklist,,,,,,242.0,2.47,597.74,kg,bar length x unit mass
+FC-008-DUP,RW-14,W-C,0+034,0+048.5,rebar weight,segment C rebar checklist,,,,,,242.0,2.47,597.74,kg,duplicate checklist export of FC-008
+FC-009,RW-14,PROJECT,0+000,0+085,closeout,closeout_reference,,,,,,,,,text,closeout reference not assigned at checklist export

@@ -1,0 +1,8 @@
+source_record_id,project_id,survey_point_id,wall_segment,station,measurement_type,design_ref_record_id,asbuilt_elevation_m,unit,survey_date,note
+SV-001,RW-14,W-A-TOP,W-A,0+009,top of wall,DQ-014,101.205,m,2026-05-17,as-built shot after coping form stripped
+SV-002,RW-14,W-B-TOP,W-B,0+026,top of wall,DQ-015,101.292,m,2026-05-17,shot after north end adjustment
+SV-002-DUP,RW-14,W-B-TOP,W-B,0+026,top of wall,DQ-015,101.292,m,2026-05-17,duplicate total station export of SV-002
+SV-003,RW-14,W-C-TOP,W-C,0+041,top of wall,DQ-016,101.302,m,2026-05-17,survey pin reset after first shot
+SV-004,RW-14,DRAIN-OUT,D-OUT,0+076,drain invert,DQ-017,99.392,m,2026-05-18,outlet invert shot at headwall
+SV-005,RW-14,W-A-BASE,W-A,0+006,wall base,,100.018,m,2026-05-17,no design point in plan extract
+SV-006,RW-14,W-C-BASE,W-C,0+044,wall base,,100.042,m,2026-05-17,no design point in plan extract

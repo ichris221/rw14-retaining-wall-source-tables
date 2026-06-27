@@ -1,0 +1,9 @@
+source_record_id,project_id,wall_segment,station_start,station_end,material_type,test_type,ticket_id,test_report_id,source_value,unit,requirement,test_date,note
+MT-001,RW-14,W-A,0+000,0+018,concrete,slump,CT-141,TR-SL-0512-01,90,mm,75 to 125 mm,2026-05-12,truck CT-141
+MT-002,RW-14,W-A,0+000,0+018,concrete,28 day compressive strength,CT-141,TR-CY-0610-01,37.8,MPa,35.0 MPa minimum,2026-06-10,cylinder set A
+MT-003,RW-14,W-B,0+018,0+034,concrete,28 day compressive strength,CT-151,TR-CY-0611-01,36.2,MPa,35.0 MPa minimum,2026-06-11,cylinder set B
+MT-004,RW-14,W-C,0+034,0+048.5,concrete,28 day compressive strength,CT-161,,32.6,MPa,35.0 MPa minimum,2026-06-12,test report ID blank and strength below minimum
+DT-001,RW-14,W-A,0+000,0+018,concrete,delivery ticket,CT-141,,5.1,m3,ticket volume,2026-05-12,delivery ticket copied from batch plant
+DT-002,RW-14,W-A,0+000,0+018,concrete,delivery ticket,CT-142,,5.0,m3,ticket volume,2026-05-12,delivery ticket copied from batch plant
+DT-002-DUP,RW-14,W-A,0+000,0+018,concrete,delivery ticket,CT-142,,5.0,m3,ticket volume,2026-05-12,duplicate ticket export of DT-002
+MT-005,RW-14,W-A,0+000,0+018,reinforcement,mill certificate,,TR-RB-0510-01,572.0,kg,copied rebar log weight,2026-05-10,mill cert covers #16 stock
